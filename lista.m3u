@@ -1,43 +1,21 @@
 #EXTM3U
-#EXTINF:-1, ESPN
-https://ca8s9.pricesaskeloadsc.com/espn/tracks-v1a1/mono.m3u8?token=63a72db15e2dc9d3b67e320f63c5e926e86d9afe-32-1739872122-1739839722
-#EXTINF:-1, ESPN 2
-https://doc.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=35db43f36665a5f038aa17522caa37aecd33639f-61-1739872220-1739839820
-#EXTINF:-1, ESPN 3
-https://cos1.pricesaskeloadsc.com/espn3/tracks-v1a1/mono.m3u8?token=51c7dfef146c3fcf81693c1d653160d6b9c46e84-39-1739872282-1739839882
-#EXTINF:-1, ESPN 4
-https://51a.pricesaskeloadsc.com/espn4/tracks-v1a1/mono.m3u8?token=fe589772434ae909d9843ed57fafa325ae5704ce-37-1739872328-1739839928
-#EXTINF:-1, ESPN 5
-https://99a.pricesaskeloadsc.com/espn5/tracks-v1a1/mono.m3u8?token=2f8e5938b6d3d52ec061c0154c33097b720ffeea-6a-1739872358-1739839958
-#EXTINF:-1, ESPN 6
-https://pecdl.pricesaskeloadsc.com:443/espn6/tracks-v1a1/mono.m3u8?token=2fd135e46f0782dd2eb28ca61b5f007a60040f0f-02-1739872396-1739839996
-#EXTINF:-1, ESPN 7
-https://u4c5a.pricesaskeloadsc.com/espn7/tracks-v1a1/mono.m3u8?token=f2a482716ef1a1332fee749f8d7466a20d1ca564-9c-1739872438-1739840038
-#EXTINF:-1, Win Plus
-https://coeld.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=4b78674b7efef0c62d224a59124a5baf4b06cf3c-52-1739872471-1739840071
-#EXTINF:-1, Win Plus 2
-https://doc.pricesaskeloadsc.com:443/winplus2/tracks-v1a1/mono.m3u8?token=379fbab680af7941a407e2c93889827343b07a62-52-1739872499-1739840099
-#EXTINF:-1, Win Sports
-https://doc.pricesaskeloadsc.com:443/winsports/tracks-v1a1/mono.m3u8?token=5235a9298fd7551cc5ed2030a7e02710ca8751af-3a-1739872530-1739840130
-#EXTINF:-1, Win Plus Online 1
-https://florcd.pricesaskeloadsc.com/winplusonline1/tracks-v1a1/mono.m3u8?token=e913daa63c430e60eb07df0ee8abc9a1c0839a41-6c-1739872558-1739840158
-#EXTINF:-1, Fox Sports 1 AR
-https://florcd.pricesaskeloadsc.com:443/fox1ar/tracks-v1a1/mono.m3u8?token=369786985fab0787da1aa7c3c8f2e4dcde3c1dc2-1c-1739872632-1739840232
-#EXTINF:-1, Fox Sports 2 AR
-https://14c5.pricesaskeloadsc.com/fox2ar/tracks-v1a1/mono.m3u8?token=2bd7c9d8d622b30eb17aa36da7d3ecd5879e8eb5-ab-1739872664-1739840264
-#EXTINF:-1, Fox Sports 3 AR
-https://cbado.pricesaskeloadsc.com/fox3ar/tracks-v1a1/mono.m3u8?token=00e221a824c2ca00c2c4b6275145488bae85322e-cc-1739872772-1739840372
-#EXTINF:-1, D Sports
-https://u4c5a.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=5f0f2904aa9773bfa34c8920130541b74c48e103-81-1739872803-1739840403
-#EXTINF:-1, D Sports 2
-https://coeld.pricesaskeloadsc.com/dsports2/tracks-v1a1/mono.m3u8?token=cbac625f5cf9db21052d5691ce54a263d4131ffc-85-1739872827-1739840427
-#EXTINF:-1, TNT Sports
-https://14c5.pricesaskeloadsc.com:443/tntsports/tracks-v1a1/mono.m3u8?token=57d12eefac443f80e1b0f4ea3cc66f696e211f9c-8a-1739872914-1739840514
-#EXTINF:-1, ESPN Premium
-https://51a.pricesaskeloadsc.com:443/espnpremium/tracks-v1a1/mono.m3u8?token=bd72ec9d57682c5a0cd57ad4a5bfa12d84d2cc76-d8-1739872966-1739840566
-#EXTINF:-1, TyC Sports
-https://florcd.pricesaskeloadsc.com/tycsports/tracks-v1a1/mono.m3u8?token=d25613f47c1acd03483014d358c06c44c84bc32f-73-1739872990-1739840590
-#EXTINF:-1, Telefe
-https://u4c5a.pricesaskeloadsc.com/telefe/tracks-v1a1/mono.m3u8?token=aa1a90766a06f703ba354c6ee8ec96d24220b3f5-6c-1739873117-1739840717
-#EXTINF:-1, TV Pública
-https://ca8s9.pricesaskeloadsc.com/tv_publica/tracks-v1a1/mono.m3u8?token=3547fb2082f570c273f6738ef703923f336229d6-0f-1739873142-1739840742
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/Q6X8XgS.png" group-title="Novelas", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:0 tvg-id="pluto-tv-cine-accion" tvg-logo="http://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Películas", Pluto TV Cine Acción
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8a350-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8ea27b5-2ef9-4b19-9435-cc2d8f0eb221&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-cine-comedia" tvg-logo="http://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png" group-title="Películas", Pluto TV Cine Comedia
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8ca60-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=37ee83e3-555c-45d8-8f59-5c2dc24b88de&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-cine-terror" tvg-logo="http://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png" group-title="Películas", Pluto TV Cine Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8ca61-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=debe62f2-240f-469c-ba3a-f39b99d60e98&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-cine-drama-1-ptv1" tvg-logo="http://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png" group-title="Películas", Pluto TV Cine Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8ca62-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d06fe15d-9f5f-4538-b0d0-395915fa5395&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-cocina" tvg-logo="http://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1759333647384.png" group-title="Estilo de Vida", Pluto TV Estilo de Vida
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8f170-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b7f90d8-ee23-42a6-8387-fa1fb9884b06&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-deportes" tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Deportes", Pluto TV Deportes
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8f171-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc49ab99-378f-466b-b08c-3b4e34eefc96&userId=&serverSideAds=true
