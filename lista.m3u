@@ -20,23 +20,24 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:0 tvg-id="pluto-tv-deportes" tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Deportes", Pluto TV Deportes
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06b8f171-ee30-11f0-b60d-5d9e4afe0211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc49ab99-378f-466b-b08c-3b4e34eefc96&userId=&serverSideAds=true
 
+#EXTM3U
 #EXTINF:-1 group-title="Noticias", Telefe (Oficial)
-http://192.168.1.37/ver?id=@Telefenoticias
+http://192.168.1.37:8080/cambiar_canal?id=@Telefenoticias
 #EXTINF:-1 group-title="Noticias", TN (Todo Noticias)
-http://192.168.1.37/ver?id=@todonoticias
+http://192.168.1.37:8080/cambiar_canal?id=@todonoticias
 #EXTINF:-1 group-title="Noticias", C5N En Vivo
-http://192.168.1.37/ver?id=@c5n
+http://192.168.1.37:8080/cambiar_canal?id=@c5n
 #EXTINF:-1 group-title="Noticias", Cronica TV
-http://192.168.1.37/ver?id=@cronicatv
+http://192.168.1.37:8080/cambiar_canal?id=@cronicatv
 #EXTINF:-1 group-title="Noticias", La Nacion+
-http://192.168.1.37/ver?id=@lanacion
+http://192.168.1.37:8080/cambiar_canal?id=@lanacion
 #EXTINF:-1 group-title="Noticias", A24 En Vivo
-http://192.168.1.37/ver?id=@A24com
+http://192.168.1.37:8080/cambiar_canal?id=@A24com
 #EXTINF:-1 group-title="Noticias", El Trece
-http://192.168.1.37/ver?id=@eltrece
+http://192.168.1.37:8080/cambiar_canal?id=@eltrece
 #EXTINF:-1 group-title="Noticias", IP Noticias
-http://192.168.1.37/ver?id=@ip_noticias
+http://192.168.1.37:8080/cambiar_canal?id=@ip_noticias
 #EXTINF:-1 group-title="Noticias", Tv Publica
-http://192.168.1.37/ver?id=@TVPublicaArgentina
+http://192.168.1.37:8080/cambiar_canal?id=@TVPublicaArgentina
 #EXTINF:-1 group-title="Noticias", America
-http://192.168.1.37/ver?id=@americaenvivo
+http://192.168.1.37:8080/cambiar_canal?id=@americaenvivo
