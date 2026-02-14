@@ -1382,25 +1382,25 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66b3af1c3a4ad20008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=fbdcdb2b-d727-4766-812d-bcbce76c407d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=b4700dfd-88fb-4ec1-82da-8866adadf0c4&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Noticias", Telefe (Oficial)
-http://192.168.1.33:8080/cambiar_canal?id=@Telefenoticias
+http://192.168.1.35:8080/cambiar_canal?id=@Telefenoticias
 #EXTINF:-1 group-title="Noticias", TN (Todo Noticias)
-http://192.168.1.33:8080/cambiar_canal?id=@todonoticias
+http://192.168.1.35:8080/cambiar_canal?id=@todonoticias
 #EXTINF:-1 group-title="Noticias", C5N En Vivo
-http://192.168.1.33:8080/cambiar_canal?id=@c5n
+http://192.168.1.35:8080/cambiar_canal?id=@c5n
 #EXTINF:-1 group-title="Noticias", Cronica TV
-http://192.168.1.33:8080/cambiar_canal?id=@cronicatv
+http://192.168.1.35:8080/cambiar_canal?id=@cronicatv
 #EXTINF:-1 group-title="Noticias", La Nacion+
-http://192.168.1.33:8080/cambiar_canal?id=@lanacion
+http://192.168.1.35:8080/cambiar_canal?id=@lanacion
 #EXTINF:-1 group-title="Noticias", A24 En Vivo
-http://192.168.1.33:8080/cambiar_canal?id=@A24com
+http://192.168.1.35:8080/cambiar_canal?id=@A24com
 #EXTINF:-1 group-title="Noticias", El Trece
-http://192.168.1.33:8080/cambiar_canal?id=@eltrece
+http://192.168.1.35:8080/cambiar_canal?id=@eltrece
 #EXTINF:-1 group-title="Noticias", IP Noticias
-http://192.168.1.33:8080/cambiar_canal?id=@ip_noticias
+http://192.168.1.35:8080/cambiar_canal?id=@ip_noticias
 #EXTINF:-1 group-title="Noticias", Tv Publica
-http://192.168.1.33:8080/cambiar_canal?id=@TVPublicaArgentina
+http://192.168.1.35:8080/cambiar_canal?id=@TVPublicaArgentina
 #EXTINF:-1 group-title="Noticias", America
-http://192.168.1.33:8080/cambiar_canal?id=@americaenvivo
+http://192.168.1.35:8080/cambiar_canal?id=@americaenvivo
 
 #EXTM3U
 #EXTINF:-1 group-title="Lista 1", AE Mundo
@@ -2557,3 +2557,48 @@ https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Acapulco Shore Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8b869c7d-5e82-4fc2-8ba4-b945d67c9988
+#EXTINF:-1 tvg-id="" group-title="Pluto2",ADN Noticias
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9879d2de-0d96-48ea-871e-3c2999f7fd66
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Adrenalina Pura TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=241a275c-cfe4-4279-a154-96b1a32dbb6e
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Al Ritmo del Jaripeo
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68ba0910e1d03fec7d5c084f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9743ef49-41d5-4c15-95e9-4dbdaf374f63
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Andromeda
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67e598e28b99330f75b4c629/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=6a9227e0-a7cb-4c46-b033-2ecd1f43f4a6
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Archivos Extraterrestres
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=16a06525-f7b6-4b9b-9028-57e6b3b3c419
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Archivos Forenses
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e916961c-7bd0-40af-83c8-b798419daec9
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Avatar: La Leyenda de Aang
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ac37b06c-c554-420e-a5cb-ea1e7526e509
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Azteca Deportes Network
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f002a620e3000813b329/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e2407de6-4375-4fba-a4b6-bc262770d065
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Azteca Deportes Premium
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fc2cc0eb-b76b-424e-8882-09ed7871f53d
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Azteca Internacional
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a065aace-f2b4-4166-b64e-0eea4185cbfa
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Azteca UNO -1 hora
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=dd6756d3-f74f-4847-8513-2c381ba69f12
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Baby Shark TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=1dd8d0c3-f4d0-4946-af22-36bfe3e6164d
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Babyfirst
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=cbfc7c72-eef5-4443-96fa-29e5f9e5e458
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Bob Esponja Pantalones Cuadrados
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a6e39545-2570-48ec-8ae1-7d395613c6b5
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Boruto: Naruto Next Generations
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=789d17c9-7506-4134-bbb6-854e927e3f62
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Bromas Gags Just for Laughs
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/678029c654f43dad4b5c1ec0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a881dd73-3a4c-455c-b86a-c0e8cb375a65
+#EXTINF:-1 tvg-id="" group-title="Pluto2",C4 en Alerta
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=195c7934-1611-4c21-8fed-dcf638b377d6
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Canal 6 CdMX
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a75e1a0b-ce6d-469f-a984-38813db776fe
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Canal Claro
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=626c62da-14e2-4d86-8513-4d1b32cf5e11
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Captain Tsubasa
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=379345c4-0198-4517-8e1e-e743dc834c91
+#EXTINF:-1 tvg-id="" group-title="Pluto2",Cazador de Homicidas
