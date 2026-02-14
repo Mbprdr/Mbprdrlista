@@ -1402,7 +1402,6 @@ http://192.168.1.35:8080/cambiar_canal?id=@TVPublicaArgentina
 #EXTINF:-1 group-title="Noticias", America
 http://192.168.1.35:8080/cambiar_canal?id=@americaenvivo
 
-#EXTM3U
 #EXTINF:-1 group-title="Lista 1", AE Mundo
 http://181.143.230.202:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="Lista 1", AXN
@@ -2558,7 +2557,6 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" group-title="Pluto2",Acapulco Shore Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8b869c7d-5e82-4fc2-8ba4-b945d67c9988
 #EXTINF:-1 tvg-id="" group-title="Pluto2",ADN Noticias
