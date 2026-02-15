@@ -2941,3 +2941,174 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a6b27b72-6fee-4bdd-ab38-b2c7bf021ea9
 #EXTINF:-1 tvg-id="" group-title="Pluto2",Zona Investigación TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=82ff01e3-7f58-4d78-92ea-b5382791d7a5
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 01 - Las leyendas de una nueva Era
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/01-Las%20leyendas%20de%20una%20nueva%20Era-%28Yomiagare%21%20Eiy%C5%AB%20dentsetsu%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 02 - Cuando Seiya viste la armadura de Pegaso
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/02-Cuando%20Seiya%20viste%20la%20armadura%20de%20Pegaso-%28Moero%21%20Pegasus%20Ry%C5%ABseiken%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 03 - El Guerrero de los hielos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/03-El%20Guerrero%20de%20los%20hielos-%28Cygnus%21%20Hyogen%20no%20senshi%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 04 - El caballero Dragón
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/04-El%20caballero%20Drag%C3%B3n-%28Dragon%21%20Mutenki%20no%20ken%20to%20tate%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 05 - La resurrección del Dragón
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/05-La%20resurrecci%C3%B3n%20del%20Drag%C3%B3n-%28Kiseki%20no%20fukkatsu%21%20Yuyo%20no%20cosmo%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 06 - El guerrero que viene del infierno
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/06-El%20guerrero%20que%20viene%20del%20infierno-%28Phoenix%21%20Jigoku%20o%20mita%20senshi%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 07 - La venganza del caballero Fénix
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/07-La%20venganza%20del%20caballero%20F%C3%A9nix-%28Ubawareta%21%20Gold%20cloth%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 08 - En busca de la armadura de oro
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/08-En%20busca%20de%20la%20armadura%20de%20oro-%28Taose%21%20Ankoku%20Phoenix%20gundan%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 09 - Los Caballeros del apocalipsis
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/09-Los%20Caballeros%20del%20apocalipsis-%28Kyoteki%21%20Ankoku%20shiten%20ou%20arawaru%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 10 - La tumba de la armadura sagrada
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/10-La%20tumba%20de%20la%20armadura%20sagrada-%28Ayaushi%20Shiry%C5%AB%21%20Cloth%20no%20hakaba%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 11 - Seiya se enfrenta con su doble
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/11-Seiya%20se%20enfrenta%20con%20su%20doble-%28Shito%21%20Kyofu%20no%20kokushiken%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 12 - Las cadenas de la amistad
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/12-Las%20cadenas%20de%20la%20amistad-%28Tsukame%21%20Yujo%20no%20Nebula%20Chain%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 13 - Hazañas explosivas
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/13-Haza%C3%B1as%20explosivas-%28Moe%20agare%21%20Honoo%20no%20ichigeki%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 14 - La derrota del fantasma del diablo
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/14-La%20derrota%20del%20fantasma%20del%20diablo-%28Yaburetari%21%20Genma%20ken%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 15 - El secreto del Fénix
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/15-El%20secreto%20del%20F%C3%A9nix-%28Ima%20akasu%21%20Ikki%20no%20nazo%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 16 - El ataque a la fundación
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/16-El%20ataque%20a%20la%20fundaci%C3%B3n-%28Kyodai%21%20Docrates%20no%20moshu%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 17 - El rescate de Saori
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/17-El%20rescate%20de%20Saori-%28Sukue%21%20Saori%20no%20kiki%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 18 - Los Caballeros de los abismos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/18-Los%20Caballeros%20de%20los%20abismos-%28Dai%20abare%21%20Karibu%20no%20Ghost%20Saints%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 19 - La isla del espectro
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/19-La%20isla%20del%20espectro-%28Sei%20ka%20shi%20ka%21%20Makaito%20no%20kessen%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 20 - La traición del señor de los hielos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/20-La%20traici%C3%B3n%20del%20se%C3%B1or%20de%20los%20hielos-%28Honki%20de%20tatakae%21%20Shaina%20no%20gyakushu%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 21 - La pirámide de hielo
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/21-La%20pir%C3%A1mide%20de%20hielo-%28Hijo%21%20Aurora%20no%20taiketsu%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 22 - El caballero de la Llama
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/22-El%20caballero%20de%20la%20Llama-Honoo%20no%20fukkatsu%21%20Fujimi%20no%20Ikki.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 23 - El ángel de la muerte
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/23-El%20%C3%A1ngel%20de%20la%20muerte-%28Silver%20Saint%21%20Hokori%20takaki%20shikaku%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 24 - El vuelo de Pegaso
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/24-El%20vuelo%20de%20Pegaso-%28Tobe%20Pegasus%21%20Suisei%20no%20yo%20ni%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 25 - La revelación
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/25-%20La%20revelaci%C3%B3n-%28Tatakae%21%20Atena%20no%20moto%20de%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 26 - Amigos o enemigos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/26-Amigos%20o%20enemigos-%28Teki%20ka%20mitaka%20ka%21%20Steels%20Saints%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 27 - Seiya se convierte en piedra
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/27-Seiya%20se%20convierte%20en%20piedra-%28Seiya%20ga%20ishi%20ni%21%20Medusa%20no%20tate%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 28 - El sacrificio del Dragón
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/28-El%20sacrificio%20del%20Drag%C3%B3n-%28Dragon%21%20Sutemi%20no%20ichigeki%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 29 - El secuestro de Saori
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/29-El%20secuestro%20de%20Saori-%28Yukai%21%20Saori%20wo%20osou%20karasu%20gundan%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 30 - El ardiente cosmos del amor
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/30-El%20ardiente%20cosmos%20del%20amor-%28Moe%20agare%21%20Ai%20no%20Cosmo%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 31 - La línea entre la vida y la muerte
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/31-La%20l%C3%ADnea%20entre%20la%20vida%20y%20la%20muerte-%28Genma%21%20Seishi%20no%20deadline%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 32 - La Isla de La Reina Muerte
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/32-La%20Isla%20de%20La%20Reina%20Muerte-%28Dai%20bakuhatsu%21%20Death%20Queen%20to%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 33 - El llanto del Dragón
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/33-El%20llanto%20del%20Drag%C3%B3n-%28Ry%C5%ABko%21%20Hikari%20naki%20Dragon%20no%20namida%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 34 - Adiós camarada
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/34-Adi%C3%B3s%20camarada-%28Saraba%20tomo%20yo%21%20Yasuraka%20ni%20nemure%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 35 - La esperanza de Seiya
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/35-La%20esperanza%20de%20Seiya-%28Kesshi%20iki%21%20Hirake%20Dragon%20no%20me%20yo%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 36 - Doce juegos de ropa dorada
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/36-Doce%20juegos%20de%20ropa%20dorada-%28Odoroki%21%20Juni%20tai%20no%20Gold%20Cloth%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 37 - La decisión del casco
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/37-La%20decisi%C3%B3n%20del%20casco-%28Kamen%20ga%20sakebu%21%20ai%20ka%20shi%20ka%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 38 - Ataquen Santos Dorados
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/38-Ataquen%20Santos%20Dorados-%28Gekitotsu%21%20Gold%20Saint%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 39 - Shiryū contra Máscara Mortal
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/39-Shiry%C5%AB%20contra%20M%C3%A1scara%20Mortal-%28Kosoku%21%20Mach%20wo%20koeru%20kyoken%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 40 - La partida
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/40-La%20partida-%28Iku%20zo%21%20Oretachi%20no%20tabidachi%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 41 - La crisis de Athena
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/41-La%20crisis%20de%20Athena-%28Sancturay%20daikessen%21%20Atena%20saidai%20no%20kiki%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 42 - Cosmo final
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/42-Cosmo%20final-%28Kyukyoku%20no%20Cosmo%21%20Sebun%20Senshizu%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 43 - Batalla en la casa de Tauro
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/43-Batalla%20en%20la%20casa%20de%20Tauro-%28Biggu%20Ban%21%20Kingyu%20kyu%20no%20battle%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 44 - Géminis, el laberinto de luz y sombra
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/44-G%C3%A9minis%2C%20el%20laberinto%20de%20luz%20y%20sombra-%28Souji%20kyu%21%20Hikari%20to%20yami%20no%20meikyu%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 45 - Enviados a otra dimensión
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/45-Enviados%20a%20otra%20dimensi%C3%B3n-%28Kyofu%21%20Ijigen%20e%20no%20Hyory%C5%AB%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 46 - La cadena de la nebulosa de Andrómeda ataca esta vez
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/46-La%20cadena%20de%20la%20nebulosa%20de%20And%C3%B3meda%20ataca%20esta%20vez-%28Hoero%21%20Kobo%20ittai%20no%20Nebula%20Chain%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 47 - El valeroso Hyōga ahora dormirá apaciblemente
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/47-El%20valeroso%20Hy%C5%8Dga%20ahora%20dormir%C3%A1%20apaciblemente-%28Saraba%20Hy%C5%8Dga%21%20Y%C5%ABsha%20yo%20nemure%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 48 - Shiryū vuelve del país de los muertos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/48-Shiry%C5%AB%20vuelve%20del%20pa%C3%ADs%20de%20los%20muertos-%28Doragon%21%20Yomigaere%20shi%20no%20kuni%20kara%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 49 - Shunrei reza por Shiryū
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/49-Shunrei%20reza%20por%20Shiry%C5%AB-%28Ai%21%20Shunrei%20no%20inori%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 50 - Arriba Dragón, tu cosmos puede derrotar a los caballeros de oro
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/50-Arriba%20Drag%C3%B3n%2C%20tu%20cosmos%20puede%20derrotar%20a%20los%20caballeros%20de%20oro-%28Nobore%20ry%C5%AB%21%20Shiry%C5%AB%20okori%20no%20Kosumo%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 51 - Por que el león dorado trata de matar a Seiya
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/51-Por%20que%20el%20le%C3%B3n%20dorado%20trata%20de%20matar%20a%20Seiya-%28Naze%20da%21%20kiba%20wo%20muita%20ogon%20no%20shishi%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 52 - El legendario golpe satánico de Arles
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/52-El%20legendario%20golpe%20sat%C3%A1nico%20de%20Arles-%28%C4%80res%21%20dentsetsu%20no%20maohken%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 53 - Cassios muere por amor
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/53-Cassios%20muere%20por%20amor-%28Otoko%20da%21%20Cassios%20ai%20ni%20shisu%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 54 - Ikki, el ave fénix sin alas
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/54-Ikki%2C%20el%20ave%20f%C3%A9nix%20sin%20alas-%28Ikki%21%20Tsubasa%20wo%20mogareta%20fushicho%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 55 - El grito de Athena
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/55-El%20grito%20de%20Athena-%28Yujo%20no%20kizuna%21%20Atena%20no%20sakebi%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 56 - Shaka, el caballero más cercano al gran maestro
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/56-Shaka%2C%20el%20caballero%20m%C3%A1s%20cercano%20al%20gran%20maestro-%28Shaka%21%20Mottomo%20kami%20ni%20chikai%20otoko%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hLRLaHyDsIvSrVqehQym91fwH9x.jpg" group-title="ANIME: ☄️ LOS CABALLEROS DEL ZODIACO", 57 - Shaka abre sus ojos
+https://archive.org/download/03-el-guerrero-de-los-hielos-cygnus-hyogen-no-senshi/57-Shaka%20abre%20sus%20ojos-%28Mu%20no%20kyofu%21%20Me%20wo%20aketa%20Shaka%29.mkv
