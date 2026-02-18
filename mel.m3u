@@ -3297,3 +3297,9 @@ http://tv.diablotv.net:8080/gonlm/c78b7cc771ec/162983
 http://tv.diablotv.net:8080/gonlm/c78b7cc771ec/162984
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Sin senos sí hay paraíso (M)(720)" tvg-logo="" group-title="24/7",24/7 Sin senos sí hay paraíso (M)(720)
 http://tv.diablotv.net:8080/gonlm/c78b7cc771ec/162985
+
+#EXTINF:-1 group-title="Doraemon", Doraemon 1
+https://archive.org/details/doraemon-el-gato-cosmico_202512/1225+11.mp4
+
+#EXTINF:-1 group-title="Doraemon", Doraemon 2
+https://archive.org/details/doraemon-el-gato-cosmico_202512/1225+12.mp4
