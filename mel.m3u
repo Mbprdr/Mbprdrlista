@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="831298" tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 ALF
+https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoogP8tGhXSV-JHWrZ1BG-bz4c7s-_WRStfxxlX1BekgE
 #EXTINF:-1 xui-id="315398" tvg-id="" tvg-name="ESTRENOS" tvg-logo="https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png" group-title="⭐EXCLUSIVOS 24/7",ESTRENOS
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqorugq5fFaWOGehMQzpg-aOiHtjEl7Ah-OXgw7Zzr4KfF
 #EXTINF:-1 xui-id="315399" tvg-id="" tvg-name="24/7 | Saga ( Terminator )" tvg-logo="https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png" group-title="⭐24/7 CINEMA SAGAS",24/7 | Saga ( Terminator )
@@ -85,7 +88,7 @@ https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqomLPNYRj4BoGlWCpBJmZnJvQPnk
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqojUxR5641L_QmNMvmCUTfDIZ6a_ZCCegsVvkVBCWVgh6
 #EXTINF:-1 xui-id="319731" tvg-id="" tvg-name="NETFLIX 04" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="⭐USA NETFLIX 24/7",NETFLIX 04
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqot8T3haqqwNEvRPbfPEmQQDThe4DA0n-GnWfyiP-M_EC
-#EXTINF:-1 xui-id="320004" tvg-id="" tvg-name="NETFLIX 05" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="⭐USA NETFLIX 24/7",NETFLIX 05
+#EXTINF:-1 xui-id="320004" tvg-id="" tvg-name="NETFLIX 05" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="directo USA NETFLIX 24/7",NETFLIX 05
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoo_x6XijH3INMXKFW0qv2BpFhyV8VyNdbRw2F1UXYmf_
 #EXTINF:-1 xui-id="320005" tvg-id="" tvg-name="NETFLIX 06" tvg-logo="https://immaa.xyz/LAnnnetfffis.png" group-title="⭐USA NETFLIX 24/7",NETFLIX 06
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqokt5ePBC12KLlJA0w1FHJVr4DnxXByYzku29zTlqc3Pa
@@ -151,7 +154,7 @@ https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoizLFGEBq9eX7RuM4tnsD4E-Sca
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqov6-WbygdzXx41Nhj_Bl89kQZXF7uyRxtFbgcAhjks2P
 #EXTINF:-1 xui-id="832031" tvg-id="" tvg-name="24/7 El Gran Chaparral" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAxNDk5NzMtMzNhNy00ODYxLTllYmQtZjE2YmI4NWZhNzlkXkEyXkFqcGc@._V1_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 El Gran Chaparral
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoq8CElp_T7ZoUx9JAnfR1t3BgL00BzTkxUyXOiuRKPvs
-#EXTINF:-1 xui-id="832032" tvg-id="" tvg-name="24/7 El Hombre Nuclear" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM2MDY4YmQtNTNjNy00YmI1LWEyYmYtZGQwODg0ZWZlOTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 El Hombre Nuclear
+#EXTINF:-1 xui-id="832032" tvg-id="" tvg-name="24/7 El Hombre Nuclear" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAxNDk5NzMtMzNhNy00ODYxLTllYmQtZjE2YmI4NWZhNzlkXkEyXkFqcGc@._V1_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 El Hombre Nuclear
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqon_njnnL7Qkai9UJBrZroCwQgxL9XP0FZqdRVZxHLXdf
 #EXTINF:-1 xui-id="832033" tvg-id="" tvg-name="24/7 El increíble Hulk" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5NzkxNDItYmYyNi00NGYzLWJiNmEtY2Q3OGUwYWE0YWJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 El increíble Hulk
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqogS05jlSHL7JfVTrT1CK68kuacpEdnBmyNobXgBeam6p
@@ -253,44 +256,6 @@ https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqov-cSkLdpcid0uIRm5NNS2765w5
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqohc7JIUOxV8V89gU6uo8t5ajcDdSIEDk2BrLUB2jTA2r
 #EXTINF:-1 xui-id="834434" tvg-id="" tvg-name="LA LIGA 2D DE CHILE OP2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxEbFifiSX7YbRhCad_zyKahzDG9g7fNt1PzHhjeCsuROgoVikQxJr5D19SbqqOQucoptuw1s77LcCt58XGeJoYLNu3i9pET68v-5Qp6cl1MxuaDOvfwSbsvI7cIY3ruBy25F3NX6Tj8ddtpkMOdtYbOYLdXE2W3FmF6JZFKNWMZDABuEuQ-pQTsPQb4/s512/Segunda%20La%20Liga%202D.png" group-title="⚽SAT DEPORTES CHILE⚽",LA LIGA 2D DE CHILE OP2
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqosCrQR3JivYOu4NszOCfnbwjtmkzm1Hh4MV2_MGtuP8X
-#EXTINF:-1 xui-id="834551" tvg-id="" tvg-name="CR | TV CHOROTEGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dtOz3ZcOSJKTsSOfJ1NVPYUDxhN4Y2Op7Q&s" group-title="✅COSTA RICA",CR | TV CHOROTEGA
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoie9KBuq_oAXeSjV1uWlUK5npD7iVVUI-tu4TmIqYXJE
-#EXTINF:-1 xui-id="833933" tvg-id="" tvg-name="24/7 La Teoría del Big Bang" tvg-logo="https://images.justwatch.com/poster/267590219/s718/la-teoria-del-big-bang.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 La Teoría del Big Bang
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoltD4zFuvU6VI6GgKg080sB1ZQIUdUvtSFmUq6Ot5tbh
-#EXTINF:-1 xui-id="836039" tvg-id="" tvg-name="24/7 Blanco y negro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_t7Kd8sWGbcOmOneY_79QksNItfa0KMBRw&s" group-title="⭐ 24/7 RETRO ⭐",24/7 Blanco y negro
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqorMCUz4w5zw23QSAYVlYZxjmp0Gd5KEsQZS7o3xGHDPo
-#EXTINF:-1 xui-id="836040" tvg-id="" tvg-name="24/7 El Narrador de Cuentos" tvg-logo="https://i.ytimg.com/vi/Dqaj1LshDSs/sddefault.jpg?v=686c0cf7" group-title="⭐ 24/7 RETRO ⭐",24/7 El Narrador de Cuentos
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoi-GOrXzBq8u9HYPFdqCz31IKxkIEpjzLl6_gThi2-44
-#EXTINF:-1 xui-id="836041" tvg-id="" tvg-name="24/7 Renegade" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIwNmZmNGQtYTdkNi00MTQyLWFiOTQtNjRjY2Y4YTBjZDVjXkEyXkFqcGc@._V1_QL75_UX154_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 Renegade
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqomjZpUem_zHV6VjhUXYncyXMBr7gp0jI_ejR2ZkUf9Cu
-#EXTINF:-1 xui-id="836042" tvg-id="" tvg-name="24/7 Il commissario Rex" tvg-logo="https://www.raiplay.it/resizegd/1200x675/dl/img/2019/10/22/1571755069096_2048x1152loghi.JPG" group-title="⭐ 24/7 RETRO ⭐",24/7 Il commissario Rex
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqohPe74SpEslv9hLJiDZJTj26M1_-qM1ODUgEph3Qq2ch
-#EXTINF:-1 xui-id="836044" tvg-id="" tvg-name="24/7 Viaje a las estrellas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIyYjI0YzUtOWRiZS00NDJhLThiZTktNDkyYzg4Yjg5YmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 Viaje a las estrellas
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqotflBlgLMP0NCYcl0tNMR8ZQLeZGz18mfXLsjNLuRtvW
-#EXTINF:-1 xui-id="836046" tvg-id="" tvg-name="24/7 Sala de urgencias" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/1994/9/w1280/bYSE2ER5LZlUAC9RFakZELHGD4u.jpg" group-title="⭐ 24/7 RETRO ⭐",24/7 Sala de urgencias
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqorsLqP84gOEZ6lh1Xq6QC2ZKb9Isa4awAXpIln6y6pOz
-#EXTINF:-1 xui-id="839469" tvg-id="" tvg-name="US C | Great American Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxOMhJ-UVfStwQxY8L2NpnM0lFagJDlyeeQ&s" group-title="✅USA CULTURE",US C | Great American Family
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqon-xWHU_mHJypSB5wXOIHYKLgnKtNTq9_A_p0QoFPazG
-#EXTINF:-1 xui-id="839470" tvg-id="" tvg-name="US C | Great American Adventures" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOi2gps1k_drJKZNbi_7KnDwrixX3b7-paw&s" group-title="✅USA CULTURE",US C | Great American Adventures
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoo9iZVRbK0lJIZaKkirbEgmA5Q1ca_z9E-rGhv-3Ti2v
-#EXTINF:-1 xui-id="845170" tvg-id="" tvg-name="LIGA ENDESA | TVC Deportes MX" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | TVC Deportes MX
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqosi3MGY2Az9m_rQLuHk_QP9rm_y8g9Tk2Pgc3K6ZccYl
-#EXTINF:-1 xui-id="845171" tvg-id="" tvg-name="LIGA ENDESA | ELEVEN SPORTS (DAZN PORTUGAL)" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | ELEVEN SPORTS (DAZN PORTUGAL)
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqonlfYFWATCntNOMj1XSaaLEnB-dnvrzSBp73QhO2f64s
-#EXTINF:-1 xui-id="845172" tvg-id="" tvg-name="LIGA ENDESA | Meridiano TV (VZ)" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | Meridiano TV (VZ)
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqotZm0mfZVtfh_0O7qktcl-86y02-xaG2LyUmsgWDNMlw
-#EXTINF:-1 xui-id="845173" tvg-id="" tvg-name="LIGA ENDESA | CDN DEPORTES (RD)" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | CDN DEPORTES (RD)
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqooS_oPnfw5gn8PJa1OvrD4eh_K4KGNrxzMoFkzX1mawG
-#EXTINF:-1 xui-id="845174" tvg-id="" tvg-name="LIGA ENDESA | ECDF (EC)" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | ECDF (EC)
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqogNi4e6CDEfTLq6v5A6RfuN8mxZIM2_ZWcq1AyoNA5do
-#EXTINF:-1 xui-id="845175" tvg-id="" tvg-name="LIGA ENDESA | Directv Sports 1" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | Directv Sports 1
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqouJ9n499isZp71wXRd4UAvbOe9ImH-hy7vcuAMzHbvwV
-#EXTINF:-1 xui-id="845176" tvg-id="" tvg-name="LIGA ENDESA | Directv Sports 2" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | Directv Sports 2
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqooYo-9lDkknF9yAICOXWQn1nVr7BeCiRZ_yIksLF4qYN
-#EXTINF:-1 xui-id="845177" tvg-id="" tvg-name="LIGA ENDESA | Directv Sports +" tvg-logo="https://www.acb.com/docs/descarga/logos/liga_endesa/PNG/ligaendesa_horizontal_positivo.png" group-title="⭐ LIGA ENDESA (ACB)",LIGA ENDESA | Directv Sports +
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoi6YlPmi7M1dT1R4E4IikCqdpEnQrPXStV30RWtptGdh
-#EXTINF:-1 xui-id="845230" tvg-id="" tvg-name="GT | TOTOVISION" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_262,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/totovision.png" group-title="✅GUATEMALA",GT | TOTOVISION
-https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqoscnUzitasgGWGr7Tb5F0XMmpoLQ5cKCKwmtjjhSdho6
 #EXTINF:-1 xui-id="845576" tvg-id="" tvg-name="EL INTERNADO" tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2025/08/26/0_7_68ae1220d76d6.jpg?d=500x282" group-title="⭐ REALITYS ⭐",EL INTERNADO
 https://skynetmax.live:8443/play/OKDVih2SeFxc29gUK-fqosMaY9B0zmuSQrKHypxRHKCErUWiT44MOkZwi92zUQjN
 #EXTINF:-1 xui-id="845699" tvg-id="" tvg-name="PE | LATINA NOTICIAS" tvg-logo="https://media.latina.pe/2022/02/Latina-Noticias.jpg" group-title="✅PERU",PE | LATINA NOTICIAS
