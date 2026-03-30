@@ -3266,5 +3266,6 @@ http://planettvweb.com:8091/AndreaDebra/Debra158/16287
 http://planettvweb.com:8091/AndreaDebra/Debra158/11888
 #EXTINF:-1 tvg-id="" tvg-name="Tru TV HD" tvg-logo="https://www.pngitem.com/pimgs/m/296-2966119_trutv-logo-tru-tv-hd-png-download.png" group-title="ENTRETENIMIENTOS",Tru TV HD
 http://planettvweb.com:8091/AndreaDebra/Debra158/18084
-
+#EXTINF:-1,Cartoon Network
+http://190.2.213.220:18000/play/a0au/index.m3u8
 
